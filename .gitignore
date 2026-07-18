@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# IDE settings (optional)
+.vscode/
+
+# Ruff cache
+.ruff_cache/
+
+# Pytest cache (for later)
+.pytest_cache/
+
+# Coverage reports (for later)
+.coverage
+htmlcov/
